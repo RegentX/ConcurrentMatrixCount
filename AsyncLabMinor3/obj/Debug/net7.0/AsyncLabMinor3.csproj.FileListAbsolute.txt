@@ -1,0 +1,15 @@
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/bin/Debug/net7.0/AsyncLabMinor3
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/bin/Debug/net7.0/AsyncLabMinor3.deps.json
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/bin/Debug/net7.0/AsyncLabMinor3.runtimeconfig.json
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/bin/Debug/net7.0/AsyncLabMinor3.dll
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/bin/Debug/net7.0/AsyncLabMinor3.pdb
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.csproj.AssemblyReference.cache
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.AssemblyInfoInputs.cache
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.AssemblyInfo.cs
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.csproj.CoreCompileInputs.cache
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.dll
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/refint/AsyncLabMinor3.dll
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.pdb
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/AsyncLabMinor3.genruntimeconfig.cache
+/Users/enterprise/RiderProjects/AsyncLab3/AsyncLabMinor3/obj/Debug/net7.0/ref/AsyncLabMinor3.dll
